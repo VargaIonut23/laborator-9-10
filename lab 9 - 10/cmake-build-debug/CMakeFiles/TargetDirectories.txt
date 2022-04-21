@@ -1,0 +1,3 @@
+C:/Users/ivarg/Desktop/New folder (2)/C++/lab 9 - 10/cmake-build-debug/CMakeFiles/lab_9___10.dir
+C:/Users/ivarg/Desktop/New folder (2)/C++/lab 9 - 10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ivarg/Desktop/New folder (2)/C++/lab 9 - 10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
